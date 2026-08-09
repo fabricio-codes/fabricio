@@ -1,57 +1,111 @@
 # 👨‍💻 Fabricio Gomes
 
-**`Desenvolvedor Full Stack`**
+### `Estudante de ADS | Desenvolvedor Full Stack em formação`
 
-Olá! Me chamo **Fabricio Gomes** e sou estudante de **Análise e Desenvolvimento de Sistemas**. Atualmente, estou direcionando meus estudos para o desenvolvimento de software, com foco em **desenvolvimento web e Full Stack**.
+Olá! Me chamo **Fabricio Gomes** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas (ADS) na UNINASSAU**.
 
-Tenho estudado programação, desenvolvimento de aplicações web, bancos de dados e ferramentas utilizadas no mercado, buscando transformar conhecimento teórico em **projetos práticos**.
+Sou apaixonado por tecnologia e estou construindo minha carreira na área de desenvolvimento de software, com foco em **desenvolvimento web e Full Stack**.
 
-Atualmente, meus principais focos de estudo são **JavaScript, Python, HTML, CSS, Node.js, SQL e Git/GitHub**.
+Atualmente, estou estudando **Python, JavaScript, HTML, CSS, Node.js, SQL e Git/GitHub**, buscando desenvolver uma base sólida em programação e transformar meus estudos em projetos práticos.
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+## 🚀 Tecnologias & Ferramentas
 
 <div align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
 
 </div>
 
 ---
 
-### 📚 Atualmente estudando
+## 📚 Atualmente estudando
 
-* Desenvolvimento Full Stack
-* JavaScript e TypeScript
-* Node.js
-* Desenvolvimento de APIs
-* Banco de dados SQL
-* Git e GitHub
-* Desenvolvimento Web
-
----
-
-### 💻 Projetos
-
-🔹 **Projetos de estudo** — aplicações desenvolvidas para praticar lógica de programação, desenvolvimento web e integração com bancos de dados.
-
-🔹 **Sistema de Pregões Inteligente** — projeto voltado à automação e organização de processos relacionados a licitações, utilizando tecnologias modernas de desenvolvimento web.
+```text
+🐍 Python
+🟨 JavaScript
+🌐 HTML5 & CSS3
+🟢 Node.js
+🗄️ SQL & Banco de Dados
+🔧 Git & GitHub
+💻 Desenvolvimento Full Stack
+```
 
 ---
 
-### 📊 GitHub
+## 💻 Projetos
+
+> 🚧 **Em construção...**
+
+Estou atualmente focado na construção da minha base de conhecimentos em programação e desenvolvimento web.
+
+Em breve, esta seção será atualizada com meus projetos pessoais e acadêmicos.
 
 ---
 
-### 📫 Contato
+## 📊 GitHub Stats
 
-* 🐙 GitHub: https://github.com/fabricio-codes
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🔥 Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight" />
+
+</div>
+
+---
+
+## 📈 Atividade no GitHub
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night" />
+
+</div>
+
+---
+
+## 🌐 Conecte-se comigo
+
+<div align="left">
+
+<a href="https://github.com/SEU_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Transformando aprendizado em código."
+
+![Profile Views](https://komarev.com/ghpvc/?username=SEU_USERNAME\&color=blue\&style=flat-square)
+
+</div>
+
 
